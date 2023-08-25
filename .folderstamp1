@@ -1,0 +1,42 @@
+This folder: /media/daniella/B/git/Plasmmer/Plasmmer/AI
+
+  File: ./Auditoor
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 1128008     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 01:15:08.383326800 -0300
+Modify: 2023-08-19 19:03:44.173451500 -0300
+Change: 2023-08-25 01:45:13.648835400 -0300
+ Birth: 2023-08-25 01:45:13.072858100 -0300
+IPFS hash: 
+------------------------------
+  File: ./TalkGPT
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 4193769     Links: 1
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 01:15:08.392319400 -0300
+Modify: 2023-08-25 01:41:05.643028000 -0300
+Change: 2023-08-25 01:45:12.928863800 -0300
+ Birth: 2023-08-25 01:45:12.484881300 -0300
+IPFS hash: 
+------------------------------
+  File: ./Tasks.txt
+  Size: 204       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4192820     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:45:36.279964600 -0300
+Modify: 2023-08-19 18:03:48.255705200 -0300
+Change: 2023-08-25 01:45:13.652835200 -0300
+ Birth: 2023-08-25 01:45:13.648835400 -0300
+IPFS hash: Qmc6mxaCCmsyhB97boXZpX2JvjHJjNA38VLRDW4p6qvZ2X
+------------------------------
+  File: ./Z-Incubator-Maybe
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 4193450     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 01:15:08.471487400 -0300
+Modify: 2023-08-19 18:02:45.444604400 -0300
+Change: 2023-08-25 01:45:13.072858100 -0300
+ Birth: 2023-08-25 01:45:12.928863800 -0300
+IPFS hash: 
+------------------------------

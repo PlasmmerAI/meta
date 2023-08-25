@@ -1,0 +1,62 @@
+This folder: /media/daniella/B/git/Plasmmer/Plasmmer AI
+
+  File: ./Auditoor
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 4191194     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 01:15:08.383326800 -0300
+Modify: 2023-08-25 01:46:30.650031800 -0300
+Change: 2023-08-25 01:46:30.650031800 -0300
+ Birth: 2023-08-19 18:02:58.454868600 -0300
+IPFS hash: 
+------------------------------
+  File: ./&DAO
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 1099126     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-13 20:37:33.101690700 -0300
+Modify: 2023-08-13 16:04:28.830524200 -0300
+Change: 2023-08-25 01:44:43.550058300 -0300
+ Birth: 2023-08-25 01:44:43.546058400 -0300
+IPFS hash: 
+------------------------------
+  File: ./&meta
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 1099127     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-13 20:37:33.104696500 -0300
+Modify: 2023-01-02 16:16:25.642528300 -0300
+Change: 2023-08-25 01:44:43.558057900 -0300
+ Birth: 2023-08-25 01:44:43.550058300 -0300
+IPFS hash: 
+------------------------------
+  File: ./TalkGPT
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 2355269     Links: 1
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 01:15:08.392319400 -0300
+Modify: 2023-08-25 01:46:31.789993500 -0300
+Change: 2023-08-25 01:46:31.789993500 -0300
+ Birth: 2023-05-23 22:28:56.659174600 -0300
+IPFS hash: 
+------------------------------
+  File: ./Tasks.txt
+  Size: 204       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4192820     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:46:37.901790000 -0300
+Modify: 2023-08-19 18:03:48.255705200 -0300
+Change: 2023-08-25 01:46:30.246045300 -0300
+ Birth: 2023-08-25 01:45:13.648835400 -0300
+IPFS hash: Qmc6mxaCCmsyhB97boXZpX2JvjHJjNA38VLRDW4p6qvZ2X
+------------------------------
+  File: ./Z-Incubator-Maybe
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 4191175     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 01:15:08.471487400 -0300
+Modify: 2023-08-19 18:02:45.444604400 -0300
+Change: 2023-08-19 18:04:30.616870000 -0300
+ Birth: 2023-08-19 18:02:25.033383000 -0300
+IPFS hash: 
+------------------------------
